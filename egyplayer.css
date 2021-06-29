@@ -152,7 +152,7 @@
  }
  .fluid_video_wrapper .vast_video_loading:after {
      color: #ffffff73;
-     content: "Ø§Ø¶ØºØ· Ø¹Ù„Ù‰ ØªØ­Ø¯ÙŠØ« Ø§Ù„Ù‚Ù†Ø§Ø© Ø§Ø°Ø§ ØªÙˆÙ‚ÙØª Ø¹Ù† Ø§Ù„Ø¹Ù…Ù„ ";
+     content: "اضغط على تحديث القناة اذا توقفت عن العمل ";
      position: absolute;
      top: 50%;
      width: 100%;
@@ -165,7 +165,7 @@
  }
  #hls-video_fluid_initial_play_button:before {
      font-family: tahoma;
-     content: 'Ø´Ø§Ù‡Ø¯ Ø¬Ù…ÙŠØ¹ Ø§Ù„Ù‚Ù†ÙˆØ§Øª Ø¹Ù„Ù‰ Ù…ÙŠÙƒØ³Ø§ÙˆÙ‰';
+     content: 'شاهد جميع القنوات على ميكساوى';
      font-weight: bold;
      font-size: 12px!important;
      top: 25px;
@@ -178,7 +178,7 @@
      opacity: .8
  }
  #hls-video_fluid_control_duration:before {
-     content: 'Ù…Ø¨Ø§Ø´Ø±'!important;
+     content: 'مباشر'!important;
      right: -10px;
      font-size: 12px
  }
